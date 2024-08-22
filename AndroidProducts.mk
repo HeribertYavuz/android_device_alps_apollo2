@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_apollo2.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_apollo2-user \
-    omni_apollo2-userdebug \
-    omni_apollo2-eng
+    twrp_apollo2-user \
+    twrp_apollo2-userdebug \
+    twrp_apollo2-eng
